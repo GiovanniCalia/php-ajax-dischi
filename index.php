@@ -15,8 +15,5 @@
     include __DIR__ . "/parts/header.php";
     include __DIR__ . "/parts/main.php";
     ?>
-    <!--
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>-->
 </body>
 </html>
