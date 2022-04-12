@@ -10,6 +10,7 @@
 </head>
 <body>
     <?php
+    include_once "./data/data.php";
     include __DIR__ . "/parts/header.php";
     include __DIR__ . "/parts/main.php";
     ?>
