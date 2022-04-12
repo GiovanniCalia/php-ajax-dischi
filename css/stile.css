@@ -27,3 +27,16 @@ select{
 main{
     background-color: rgb(30, 45, 59);
 }
+
+.card_dark{
+    background-color: rgb(46, 58, 70);
+}
+
+.card_dark div{
+    color: grey;
+}
+
+.card_dark h3{
+    color: white;
+}
+
